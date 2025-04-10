@@ -88,7 +88,7 @@ export default function Privacy() {
                   개인정보 처리에 관한 문의나 우려사항이 있으시면 아래 이메일로 연락해주세요.
                 </p>
                 <p className="text-gray-800 mt-2 font-medium">
-                  이메일: <a href="mailto:homecreator.ai@gmail.com" className="text-indigo-600 hover:underline">jobmaker.team@gmail.com</a>
+                  이메일: <a href="mailto:homecreator.ai@gmail.com" className="text-indigo-600 hover:underline">homecreator.ai@gmail.com</a>
                 </p>
               </div>
               
