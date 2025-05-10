@@ -10,6 +10,24 @@ export const metadata: Metadata = {
   icons: {
     icon: "/favicon.ico",
   },
+  openGraph: {
+    title: "집중ON - 딴짓 그만, 지금 집중ON!",
+    description: "뽀모도로 타이머와 유튜브 차단으로 집중력을 높여주는 크롬 확장 프로그램",
+    images: [
+      {
+        url: "/og-image.png",
+        width: 1200,
+        height: 630,
+        alt: "집중ON",
+      },
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "집중ON - 딴짓 그만, 지금 집중ON!",
+    description: "뽀모도로 타이머와 유튜브 차단으로 집중력을 높여주는 크롬 확장 프로그램",
+    images: ["/og-image.png"],
+  },
 };
 
 export default function RootLayout({
