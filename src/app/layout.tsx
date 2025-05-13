@@ -65,6 +65,9 @@ export const metadata: Metadata = {
   alternates: {
     canonical: "https://focuson.kr",
   },
+  other: {
+    "chrome-web-store": "https://chromewebstore.google.com/detail/집중on/elcnpcdejkpeejmbcjfjnmmbjimppieg",
+  },
 };
 
 export default function RootLayout({

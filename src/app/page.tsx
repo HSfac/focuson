@@ -186,7 +186,7 @@ export default function Home() {
                   className="w-full sm:w-auto"
                 >
                   <a 
-                    href="https://chrome.google.com/webstore"
+                    href="https://chromewebstore.google.com/detail/집중on/elcnpcdejkpeejmbcjfjnmmbjimppieg"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="w-full sm:w-auto px-6 sm:px-8 py-3 sm:py-4 bg-gradient-to-r from-indigo-600 to-purple-600 text-white font-bold rounded-xl shadow-lg hover:shadow-indigo-500/25 transition-all flex items-center justify-center"
@@ -722,7 +722,7 @@ export default function Home() {
                 className="w-full sm:w-auto"
               >
                 <a
-                  href="https://chrome.google.com/webstore"
+                  href="https://chromewebstore.google.com/detail/집중on/elcnpcdejkpeejmbcjfjnmmbjimppieg"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="w-full sm:w-auto inline-flex items-center justify-center px-6 sm:px-8 py-3 sm:py-4 bg-white text-indigo-600 font-bold rounded-xl hover:bg-gray-100 shadow-lg hover:shadow-xl transition-all text-base sm:text-lg"
